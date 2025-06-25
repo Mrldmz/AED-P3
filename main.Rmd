@@ -1,0 +1,11 @@
+---
+title: "AED - Proyecto III"
+author: 
+    - "Leopoldo Muñoz"
+    - "Valentina Yáñez"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
