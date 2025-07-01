@@ -6,4 +6,5 @@ pandas
 scikit-learn
 seaborn
 imbalanced-learn
+statsmodels
 nbconvert
